@@ -32,7 +32,7 @@ Um sistema completo de chatbot automatizado para WhatsApp que gerencia assinatur
 
 ### 1. Clone o repositório
 ```bash
-git clone [URL_DO_SEU_REPOSITORIO]
+git clone [https://github.com/VioleProg/Chat-Bot-WhatsApp.git]
 cd BOT
 ```
 
@@ -115,9 +115,8 @@ BOT/
 ├── messages.json         # Configuração de mensagens
 ├── package.json          # Dependências Node.js
 ├── Ligar_BOT.bat         # Script de inicialização
-├── css/                  # Arquivos de estilo
-├── js/                   # Scripts JavaScript
-└── README.md            # Este arquivo
+├── css/style.css         # Arquivos de estilo
+└── README.md             # Este arquivo
 ```
 
 ## ⚙️ Configuração de Mensagens
@@ -173,8 +172,12 @@ Para suporte técnico ou dúvidas, abra uma issue no repositório.
 
 ---
 
+
+## 🤝 Créditos
 **Desenvolvido com ❤️ para automatizar a gestão de assinaturas IPTV** 
 
-** Developer VioleProg**
-** Se te ajudei e não for te fazer falta e puder doar qualquer valor já ajuda na motivação para atualizações e features futuras **
-** PIX: violeprog@gmail.com **
+**Developer VioleProg**
+**Se te ajudei e não for te fazer falta e puder doar qualquer valor já ajuda na motivação para atualizações e features futuras**
+
+## 🤝 PARA DOAÇÕES
+**violeprog@gmail.com**

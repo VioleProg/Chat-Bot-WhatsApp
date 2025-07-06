@@ -285,7 +285,7 @@ try {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BOT Marcio - Painel de Controle</title>
+    <title>Dashboard</title>
     <link rel="stylesheet" href="css/style.css">
     <style>
         
@@ -293,7 +293,7 @@ try {
 </head>
 <body>
     <div class="container">
-        <h1>BOT Marcio - Painel de Controle</h1>
+        <h1>BOT - Painel de Controle</h1>
 
         <?php if ($success): ?>
             <p class="success"><?php echo htmlspecialchars($success); ?></p>
@@ -421,7 +421,11 @@ try {
             </form>
         </div>
     </div>
-
+    <center> <!-- Aqui me deu preguiça de centralizar então vai no foda-se -->
+        <footer class="mt-8 text-center">
+                <p>Desenvolvido por <a href="http://wa.me/5521994782302" target="_blank" class="text-blue-400 hover:underline">Developer VioleProg</a></p>
+        </footer>
+    </center>
     <script>
         document.getElementById('toggleAddClient').addEventListener('click', () => {
             console.log('Abrindo seção de adição de cliente com combobox');
@@ -571,5 +575,6 @@ try {
 
         let messages = <?php echo json_encode($messages, JSON_HEX_APOS | JSON_HEX_QUOT); ?>;
     </script>
+    
 </body>
 </html>
