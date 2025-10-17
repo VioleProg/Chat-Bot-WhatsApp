@@ -174,7 +174,7 @@ Para suporte técnico ou dúvidas, abra uma issue no repositório.
 
 
 ## 🤝 Créditos
-**Desenvolvido com ❤️ para automatizar a gestão de assinaturas IPTV** 
+**Desenvolvido para automatizar a gestão de assinaturas IPTV** 
 
 **Developer VioleProg**
 **Se te ajudei e não for te fazer falta e puder doar qualquer valor já ajuda na motivação para atualizações e features futuras**
